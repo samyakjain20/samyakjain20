@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Samyak Jain here...</h1>
-<h3 align="center">A mission on exploring technologies and languages. Always excited for new stuffs.</h3>
+<h3 align="center">Like debugging, exploring technologies and languages. Excited for new stuffs.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyakjain20" alt="samyakjain20" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **samyakjain971@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C198OI0E6-6bOjTmAgXF9wsDM-SbnavS/view](https://drive.google.com/file/d/1C198OI0E6-6bOjTmAgXF9wsDM-SbnavS/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vltrgLPyrhrIYkDgxX_BUVctpxSktsnh/view](https://drive.google.com/file/d/1vltrgLPyrhrIYkDgxX_BUVctpxSktsnh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
