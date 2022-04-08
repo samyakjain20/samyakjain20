@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/samyakk_" target="blank"><img src="https://img.shields.io/twitter/follow/samyakk_?logo=twitter&style=for-the-badge" alt="samyakk_" /></a> </p>
 
-- 🔭 I’m currently working in **Algorithms, Vue.js and Data science**
+- 🔭 I’m currently working in **Node.js, React.js and Algorithms.**
 
-- 🌱 I’m currently learning **Devops, Data science and Vue.js**
+- 🌱 I’m currently learning **Devops and Data science.**
 
-- 👯 I’m looking to collaborate on **Data science, ML and Devops**
+- 👯 I’m looking to collaborate on **MERN projects and Devops**
 
 - 💬 Ask me about **C, C++, Python, Data Analysis, Algorithms and Node.js**
 
